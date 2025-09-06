@@ -49,7 +49,9 @@ cargo build --release
 - `notify-send` - For desktop notifications
 - `zenity` - For GUI dialogs
 
+### Download Binary
 
+you can download the latest binary from the [Actions](https://github.com/streamtechteam/hyprfreeze-rs/actions) tab.
 
 ## Usage
 
