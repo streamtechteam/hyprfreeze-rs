@@ -6,7 +6,6 @@ use std::process::exit;
 
 mod args_structure;
 mod desktop;
-mod get_pid;
 mod pid;
 mod process;
 mod utils;
